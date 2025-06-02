@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/wasabi-data-upload/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/wasabi-data-upload/static/js/main.265500c9.chunk.js",
-    "main.js.map": "/wasabi-data-upload/static/js/main.265500c9.chunk.js.map",
-    "runtime-main.js": "/wasabi-data-upload/static/js/runtime-main.171be352.js",
-    "runtime-main.js.map": "/wasabi-data-upload/static/js/runtime-main.171be352.js.map",
-    "static/js/2.db34cb9d.chunk.js": "/wasabi-data-upload/static/js/2.db34cb9d.chunk.js",
-    "static/js/2.db34cb9d.chunk.js.map": "/wasabi-data-upload/static/js/2.db34cb9d.chunk.js.map",
-    "static/js/3.8df07351.chunk.js": "/wasabi-data-upload/static/js/3.8df07351.chunk.js",
-    "static/js/3.8df07351.chunk.js.map": "/wasabi-data-upload/static/js/3.8df07351.chunk.js.map",
+    "main.css": "/wasabi-data-upload/static/css/main.e96b9bcf.chunk.css",
+    "main.js": "/wasabi-data-upload/static/js/main.17d7bfe5.chunk.js",
+    "main.js.map": "/wasabi-data-upload/static/js/main.17d7bfe5.chunk.js.map",
+    "runtime-main.js": "/wasabi-data-upload/static/js/runtime-main.223886f4.js",
+    "runtime-main.js.map": "/wasabi-data-upload/static/js/runtime-main.223886f4.js.map",
+    "static/js/2.1f1f27b3.chunk.js": "/wasabi-data-upload/static/js/2.1f1f27b3.chunk.js",
+    "static/js/2.1f1f27b3.chunk.js.map": "/wasabi-data-upload/static/js/2.1f1f27b3.chunk.js.map",
+    "static/js/3.0f90631f.chunk.js": "/wasabi-data-upload/static/js/3.0f90631f.chunk.js",
+    "static/js/3.0f90631f.chunk.js.map": "/wasabi-data-upload/static/js/3.0f90631f.chunk.js.map",
     "index.html": "/wasabi-data-upload/index.html",
-    "precache-manifest.e9a18f8216e197ed94f17a9958acc6ea.js": "/wasabi-data-upload/precache-manifest.e9a18f8216e197ed94f17a9958acc6ea.js",
+    "precache-manifest.a56ea129a855dcf6769332734373e5a8.js": "/wasabi-data-upload/precache-manifest.a56ea129a855dcf6769332734373e5a8.js",
     "service-worker.js": "/wasabi-data-upload/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/wasabi-data-upload/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.db34cb9d.chunk.js.LICENSE.txt": "/wasabi-data-upload/static/js/2.db34cb9d.chunk.js.LICENSE.txt"
+    "static/css/main.e96b9bcf.chunk.css.map": "/wasabi-data-upload/static/css/main.e96b9bcf.chunk.css.map",
+    "static/js/2.1f1f27b3.chunk.js.LICENSE.txt": "/wasabi-data-upload/static/js/2.1f1f27b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.171be352.js",
-    "static/js/2.db34cb9d.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.265500c9.chunk.js"
+    "static/js/runtime-main.223886f4.js",
+    "static/js/2.1f1f27b3.chunk.js",
+    "static/css/main.e96b9bcf.chunk.css",
+    "static/js/main.17d7bfe5.chunk.js"
   ]
 }
