@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wasabi-data-upload/precache-manifest.d99ddccc86c038a2ada98b0e9751fa82.js"
+  "/wasabi-data-upload/precache-manifest.d9b5778d497f80710e5b338bf41c40de.js"
 );
 
 self.addEventListener('message', (event) => {
