@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba84c9c74e06b8a372a98a8fadc14d90",
+    "revision": "ade3bb43a405900c230aeb612dba4f04",
     "url": "/wasabi-data-upload/index.html"
   },
   {
-    "revision": "a3e95a6aab39250e1cf5",
+    "revision": "656f24adcfb4335dea39",
     "url": "/wasabi-data-upload/static/css/main.e96b9bcf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wasabi-data-upload/static/js/3.0f90631f.chunk.js"
   },
   {
-    "revision": "a3e95a6aab39250e1cf5",
-    "url": "/wasabi-data-upload/static/js/main.6b17416e.chunk.js"
+    "revision": "656f24adcfb4335dea39",
+    "url": "/wasabi-data-upload/static/js/main.e8032290.chunk.js"
   },
   {
     "revision": "b776d45e02953cb58de3",
