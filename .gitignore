@@ -25,3 +25,4 @@ yarn-error.log*
 napp.js
 n2app.js
 google-sheet-uploader
+src/credentials.json
